@@ -3,6 +3,7 @@
 ## Version Available
 ### Enterprise
 - 3.0 Not Available
+- 5.0 Beta Working 1%
 
 
 ### Ultimate
